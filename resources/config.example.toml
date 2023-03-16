@@ -1,0 +1,11 @@
+[url]
+base = "https://elettronica.pellegrinicloud.it/menu/"
+
+[menu]
+standard = 3584
+regional = 3589
+fit = 3588
+pizza = 3586
+
+[telegram]
+token = "BOT_TOKEN_HERE"
